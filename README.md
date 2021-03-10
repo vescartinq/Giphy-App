@@ -1,4 +1,5 @@
 # Giphy-App
+---
 
-##Web Deployment
+## Web Deployment
 - https://vescartinq.github.io/Giphy-App/
