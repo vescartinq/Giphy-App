@@ -2,4 +2,4 @@
 ---
 
 ## Web Deployment
-- https://vescartinq.github.io/Giphy-App/
+- giphyapp-venn.netlify.app
