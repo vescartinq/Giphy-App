@@ -2,4 +2,4 @@
 ---
 
 ## Web Deployment
-- giphyapp-venn.netlify.app
+- https://giphyapp-venn.netlify.app/
